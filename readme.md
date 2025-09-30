@@ -17,5 +17,5 @@ Current status:
 
 *very early development*
 
-© 2025 Ulla Engineering © 
+made by Charles W yes that is a W  
 
