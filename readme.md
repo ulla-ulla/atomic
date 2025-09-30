@@ -16,6 +16,4 @@ Features:
 Current status:
 
 *very early development*
-
-made by Charles W yes that is a W  
-
+ 
